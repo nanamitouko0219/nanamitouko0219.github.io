@@ -7,12 +7,12 @@
         <language>zh-CN</language>
         <pubDate>Thu, 22 Oct 2026 13:15:00 +0800</pubDate>
         <lastBuildDate>Thu, 22 Oct 2026 13:15:00 +0800</lastBuildDate>
-        <category>movie</category>
-        <category>novel</category>
-        <category>yuri</category>
         <category>CTF</category>
         <category>Writeup</category>
         <category>moectf2026</category>
+        <category>movie</category>
+        <category>novel</category>
+        <category>yuri</category>
         <item>
             <guid isPermalink="true">https://nanamitouko0219.github.io/2026/10/22/moectf2026-writeups/</guid>
             <title>moectf2026 Writeups 合集</title>
